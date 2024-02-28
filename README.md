@@ -124,4 +124,4 @@ I am a person passionate about constant learning and progress, always seeking ne
 
 
 
-<h3 align="left">Stats:</h3>  <p align="left">  <img src="https://github-readme-stats.vercel.app/api?username=pacoDevelop&show_icons=true&locale=en" alt="Francisco Hernandez Santos" width="100%" />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%" />  </p>  <p align="right">  <img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="50%"/>  </p>
+<h3 align="left">Stats:</h3>  <p align="left">  <img src="https://github-readme-stats.vercel.app/api?username=pacoDevelop&show_icons=true&locale=en" alt="Francisco Hernandez Santos" width="50%" />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="49%" />  </p>  <p align="right">  <img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="25%"/>  </p>
