@@ -1,3 +1,6 @@
+
+![Prints hi in multiple programming languages](https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif)
+
 ## Hi there! 👋
 ### My name's Francisco Hernández Santos and I'm a FullStack Developer 
 
@@ -50,11 +53,70 @@ I am a person passionate about constant learning and progress, always seeking ne
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-
-
-  [![.Net]][.net-url] [![.Net]][.net-url] [![.Net]][.net-url] [![.Net]][.net-url] [![.Net]][.net-url]
-
-  
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dotnetcore/dotnetcore-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/axios/axios-plain-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/feathersjs/feathersjs-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/filezilla/filezilla-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/json/json-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angular/angular-plain-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-plain-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/spring/spring-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firebase/firebase-plain-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azuredevops/azuredevops-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/xml/xml-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/android/android-plain-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angularjs/angularjs-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flutter/flutter-original.svg" alt="sass" width="40" height="40"/>
+  </a>  
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-plain-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
+ <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original-wordmark.svg" alt="sass" width="40" height="40"/>
+  </a>
 </p>
 
 
@@ -64,9 +126,3 @@ I am a person passionate about constant learning and progress, always seeking ne
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Francisco Hernandez Santos"/></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat"/></p>
-
-
-
- 
-[.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-[.net-url]: https://docs.microsoft.com/es-es/dotnet
