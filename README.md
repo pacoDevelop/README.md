@@ -10,26 +10,17 @@
 
 - 📫 How to reach me: franciscohernandezsantos3@gmail.com.
 
-He trabajado con una variedad de herramientas y tecnologías, incluyendo:
+I have participated in several projects in my career, including:
 
-#### Tecnologías de desarrollo:
-API, Aplicaciones Web, ASP.NET (ASP+), Axios, Feathers.js, FTP, Git, JSON, MQTT, MySQL, Node.js, Ofimática, React.js, React, REST, Spring Boot, Spring Cloud, XML, Ajax, Android SDK, AngularJS, Angular, JSP, Arduino, Bootstrap, Express, Flutter, H2, Hibernate, JavaFx, JPA (Java Persistence API), jQuery, Maven, Microsoft .NET Framework, Modbus, MongoDB, MVC (Modelo Vista Controlador), Oracle MySQL, React Route, ReduxJs, Sockets, Spring Framework, Unity 3D, Desarrollo de programas para Android, Laravel, Desarrollo de aplicaciones Felix Instrument, Robótica industrial, HTML5, CSS3, JavaScript, C#, Dart, Java, Kotlin, PHP, Python, JSX, Lenguaje XSL y SQL.
+Moviedick: An Android player with the ability to stream to TV, Chromecast, web, Android TV, and much more.
 
-#### Administración:
-Administración de sistemas Linux, Samba, Sistemas operativos, Software, Apache, DHCP, DNS, Windows Server, Nginx.
+TDTChannels APP: An Android App that allows you to watch TDT online.
 
-He participado en varios proyectos en mi carrera, incluyendo:
+TDTChannels bot: A Telegram group management bot (AntiSpammers: texts, links, images, videos, and files).
 
-- **Moviedick:** Un reproductor Android con capacidad de envío a TV, chromecast, web, Android TV y mucho más.
+Proxy Free List: A Telegram channel where thousands of categorized proxies are sent every 5 minutes, extracted from all existing websites through Web scraping.
 
-- **TDTChannels APP:** Una App Android que permite ver la TDT por internet.
-
-- **TDTChannels bot:** Un bot de administración del grupo de Telegram (AntiSpammers: textos, enlaces, imágenes, videos y archivos).
-
-- **Proxy Free List:** Un canal de Telegram donde se envían cada 5 minutos miles de proxys categorizados, extraídos de todas las webs existentes mediante Web scraping.
-
-Soy una persona apasionada por el aprendizaje constante y el progreso, siempre buscando nuevos desafíos y oportunidades para crecer en mi carrera.
-
+I am a person passionate about constant learning and progress, always seeking new challenges and opportunities to grow in my career.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -70,5 +61,5 @@ Soy una persona apasionada por el aprendizaje constante y el progreso, siempre b
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Francisco Hernandez Santos"/></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
-[.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.net-url]: https://docs.microsoft.com/es-es/dotnet
