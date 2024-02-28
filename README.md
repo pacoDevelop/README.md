@@ -67,6 +67,8 @@ Soy una persona apasionada por el aprendizaje constante y el progreso, siempre b
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pacoDevelop&show_icons=true&locale=en" alt="Francisco Hernandez Santos" /></p>
 
-[.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Francisco Hernandez Santos"/></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat"/></p>
+
+[.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.net-url]: https://docs.microsoft.com/es-es/dotnet
