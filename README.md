@@ -50,11 +50,13 @@ I am a person passionate about constant learning and progress, always seeking ne
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  <!-- Agrega más tecnologías aquí -->
+
+
+  [![.Net]][.net-url]
+
+  
 </p>
 
-
-[![.Net]][.net-url]
 
 
 <h3 align="left">Stats:</h3>
