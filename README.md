@@ -52,7 +52,7 @@ I am a person passionate about constant learning and progress, always seeking ne
   </a>
 
 
-  [![.Net]][.net-url]
+  [![.Net]][.net-url] [![.Net]][.net-url] [![.Net]][.net-url] [![.Net]][.net-url] [![.Net]][.net-url]
 
   
 </p>
