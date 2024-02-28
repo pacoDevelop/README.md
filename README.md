@@ -1,6 +1,5 @@
 
 ![Prints hi in multiple programming languages](https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif)
-<img src="https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif" alt="sass" width="100%"/>
 ## Hi there! 👋
 ### My name's Francisco Hernández Santos and I'm a FullStack Developer 
 
