@@ -54,6 +54,9 @@ I am a person passionate about constant learning and progress, always seeking ne
 </p>
 
 
+[![.Net]][.net-url]
+
+
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pacoDevelop&show_icons=true&locale=en" alt="Francisco Hernandez Santos" /></p>
 
@@ -61,7 +64,7 @@ I am a person passionate about constant learning and progress, always seeking ne
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
 
-[![.Net]][.net-url]  `![.Net]
+
  
 [.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.net-url]: https://docs.microsoft.com/es-es/dotnet
