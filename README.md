@@ -31,35 +31,35 @@ I am a person passionate about constant learning and progress, always seeking ne
 
 <h3 align="left">Tech stack:</h3>
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dotnetcore/dotnetcore-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/axios/axios-plain-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/feathersjs/feathersjs-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/filezilla/filezilla-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/json/json-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angular/angular-plain-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-plain-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/spring/spring-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firebase/firebase-plain-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azuredevops/azuredevops-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/xml/xml-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/android/android-plain-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angularjs/angularjs-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flutter/flutter-original.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-plain-wordmark.svg" alt="sass" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original-wordmark.svg" alt="sass" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dotnetcore/dotnetcore-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/axios/axios-plain-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/feathersjs/feathersjs-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/filezilla/filezilla-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/json/json-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mysql/mysql-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angular/angular-plain-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/arduino/arduino-plain-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/spring/spring-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/firebase/firebase-plain-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/azuredevops/azuredevops-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/xml/xml-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/android/android-plain-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/angularjs/angularjs-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/express/express-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/flutter/flutter-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongodb/mongodb-plain-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original-wordmark.svg" alt="sass" width="40" height="40"/>&nbsp;
 </p>
 
 
