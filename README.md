@@ -50,9 +50,9 @@ I am a person passionate about constant learning and progress, always seeking ne
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-  [![.Net]][.net-url] 
   <!-- Agrega más tecnologías aquí -->
 </p>
+ [![.Net]][.net-url] 
 
 
 <h3 align="left">Stats:</h3>
@@ -61,5 +61,5 @@ I am a person passionate about constant learning and progress, always seeking ne
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Francisco Hernandez Santos"/></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
-[.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[.net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [.net-url]: https://docs.microsoft.com/es-es/dotnet
