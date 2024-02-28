@@ -52,7 +52,7 @@ I am a person passionate about constant learning and progress, always seeking ne
   </a>
   <!-- Agrega más tecnologías aquí -->
 </p>
- [![.Net]][.net-url] 
+ [![.Net]][.net-url]  `![.Net]
 
 
 <h3 align="left">Stats:</h3>
