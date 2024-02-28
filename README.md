@@ -27,7 +27,7 @@ I am a person passionate about constant learning and progress, always seeking ne
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/pacoDevelop" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Hernández Santos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pacoDevelop" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Hernández Santos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech stack:</h3>
